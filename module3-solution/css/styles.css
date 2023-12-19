@@ -2,10 +2,8 @@
 
 /** HEADER **/
 #header-nav {
-  .navbar .navbar-default{
   background-color: #36454F; /** /charcoal color **/
   border-radius: 0;
   border: 0;
-  }
 }
 
