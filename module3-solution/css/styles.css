@@ -31,10 +31,12 @@
   font-size: 1.8em;
 }
 .navbar-toggle collapsed {
-  color: #557C3E;
+  border: 1px;
+  border-color: #557C3E;
 }
 .collapse navbar {
-  color: #F6B319;
+  border: 1px;
+  border-color: #F6B319;
 }
 /** BODY **/
 .main-body {
