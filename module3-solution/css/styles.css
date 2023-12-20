@@ -39,9 +39,10 @@
   border-color: #F6B319;
 }
 /** BODY **/
-.main-body {
+.container .main-content {
   background: #557C3E;
   height: 2500px;
+  width: 100%;
   border-radius: 0;
   border: 0;
   padding: 0;
@@ -54,3 +55,7 @@
   text-color: #557C3E;
   text-align: left;
 }
+.link-top {
+  bottom-align;
+}
+
