@@ -30,6 +30,12 @@
 #nav-list a span {
   font-size: 1.8em;
 }
+.navbar-toggle collapsed {
+  color: #557C3E;
+}
+.collapse navbar {
+  color: #F6B319;
+}
 /** BODY **/
 .main-body {
   background: #557C3E;
