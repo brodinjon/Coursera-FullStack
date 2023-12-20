@@ -51,11 +51,12 @@
   height: 700px;
   background-color: #F6B319;
   border: 1px;
+  border-color: #557C3E;
   padding: 5px;
   text-color: #557C3E;
   text-align: left;
 }
 .link-top {
-  bottom-align;
+  text-align: bottom;
 }
 
