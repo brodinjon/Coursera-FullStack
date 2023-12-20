@@ -2,14 +2,14 @@
 
 /** HEADER **/
 .header-nav {
-  background-color: #36454F; /** /charcoal color **/
+  background-color: #36454F;
   border-radius: 0;
   border: 0;
 }
 .navbar-brand {
   padding-top: 25px;
 }
-.navbar-brand h1 { /*Restaurant Name */
+.navbar-brand h1 { 
   font-family: 'Lora', serif;
   color: #FFFFFF;
   font-size: 1.5em;
