@@ -33,7 +33,9 @@
 /** BODY **/
 .main-body {
   background: #D3D3D3;
-  height: 1000px;
+  height: 2100px;
+  border-radius: 0;
+  border: 0;
 }
 .menu-section {
   height: 700px;
