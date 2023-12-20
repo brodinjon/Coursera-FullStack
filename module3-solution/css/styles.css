@@ -6,4 +6,9 @@
   border-radius: 0;
   border: 0;
 }
+#navbar-brand {
+  padding-top: 25px;
+}
+#navbar-brand h1 {
+  
 
