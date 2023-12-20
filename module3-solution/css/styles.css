@@ -32,5 +32,9 @@
 }
 /** BODY **/
 .main-body {
-  background: #D3D3D3
+  background: #D3D3D3;
+  height: 1000px;
+}
+.menu-section {
+  height: 700px;
 }
