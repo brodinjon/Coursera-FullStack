@@ -1,6 +1,6 @@
 /** HEADER **/
 #header-nav {
-  background-color: #36454F;
+  background-color: #F6B319;
   border-radius: 0;
   border: 0;
 }
@@ -9,7 +9,7 @@
 }
 .navbar-brand h1 { 
   font-family: 'Lora', serif;
-  color: #FFFFFF;
+  color: #557C3E;
   font-size: 1.5em;
   font-weight: bold;
   text-shadow: 1px, 1px, 1px, #222;
@@ -32,7 +32,7 @@
 }
 /** BODY **/
 .main-body {
-  background: #D3D3D3;
+  background: #557C3E;
   height: 2500px;
   border-radius: 0;
   border: 0;
@@ -40,8 +40,8 @@
 }
 .menu-section {
   height: 700px;
-  background-color: #36454F;
+  background-color: #F6B319;
   border: 1px;
   padding: 5px;
-  text-color: #FFFFFF;
+  text-color: #557C3E;
 }
