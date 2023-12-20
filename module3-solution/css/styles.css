@@ -40,4 +40,7 @@
 }
 .menu-section {
   height: 700px;
+  background-color: #36454F;
+  border: 1px;
+  padding: 5px;
 }
