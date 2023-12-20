@@ -42,7 +42,7 @@
 .container .main-content {
   background: #557C3E;
   height: 2500px;
-  width: 100%;
+  width=device-width;
   border-radius: 0;
   border: 0;
   padding: 0;
