@@ -31,7 +31,7 @@
 #nav-list a span {
   font-size: 1.8em;
 }
-.navbar .navbar-toggler .icon-bar{
+.navbar .navbar-toggle .icon-bar{
    background-color: #557C3E !important;
 }
 .navbar-toggle collapsed {
