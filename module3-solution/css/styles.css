@@ -66,6 +66,7 @@
   margin-bottom: 5px;
 }
 .link-top {
-  text-align: bottom;
+  position: absolute;
+  bottom: 0;
 }
 
