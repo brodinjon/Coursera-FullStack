@@ -41,11 +41,12 @@
 /** BODY **/
 .main-content {
   background-color: #557C3E;
-  height: 2500px;
+  color: #F6B319;
+  height: 2200px;
   width: 100%;
   border-radius: 0;
   border: 0;
-  padding: 0;
+  padding-top: 0;
 }
 .menu-section {
   height: 700px;
@@ -57,7 +58,7 @@
   color: #557C3E;
   text-align: left;
   margin-right: 2px;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
 }
 .link-top {
   vertical-align: text-bottom;
