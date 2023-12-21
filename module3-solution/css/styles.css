@@ -43,7 +43,8 @@
 #main-content {
   background-color: #557C3E;
   text-align: center;
-  font-size: 1.2em;
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
   color: #F6B319;
   height: 2200px;
   width: 100%;
