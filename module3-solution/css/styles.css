@@ -50,7 +50,7 @@
 .menu-section {
   height: 700px;
   background-color: #F6B319;
-  border-block: 1px solid black;
+  border: 2px solid black;
   padding-left: 5;
   padding-right: 5;
   color: #557C3E;
