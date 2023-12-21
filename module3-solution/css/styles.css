@@ -53,12 +53,12 @@
   border: 2px solid black;
   padding-left: 0.5em;
   padding-right: 0.5em;
-  padding-bottom: 0.5em;
+  padding-bottom: 2em;
   color: #557C3E;
   text-align: left;
   margin-right: 2px;
 }
 .link-top {
-  text-align: bottom;
+  vertical-align: bottom;
 }
 
