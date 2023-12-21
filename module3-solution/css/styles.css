@@ -3,10 +3,6 @@
   background-color: #F6B319;
   border-radius: 0;
   border: 0;
-  height: 45px;
-}
-.short-header {
-  height: 50px;
 }
 .navbar-brand {
   padding-top: 25px;
@@ -50,7 +46,7 @@
   font-family: 'Lora', serif;
   font-size: 1.5em;
   color: #F6B319;
-  height: 2200px;
+  height: 2110px;
   width: 100%;
   border-radius: 0;
   border: 5 px solid #557C3E;
