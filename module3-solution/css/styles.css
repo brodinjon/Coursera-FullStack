@@ -50,12 +50,12 @@
 .menu-section {
   height: 700px;
   background-color: #F6B319;
-  border: 3px;
+  border: 10px;
   border-color: #000000;
-  padding: 5, 5, 5, 0;
-  text-color: #557C3E;
+  padding: 5;
+  color: #557C3E;
   text-align: left;
-  margin: 10px;
+  margin: 0px;
 }
 .link-top {
   text-align: bottom;
