@@ -51,9 +51,9 @@
   height: 700px;
   background-color: #F6B319;
   border: 2px solid black;
-  padding-left: 5;
-  padding-right: 5;
-  padding-bottom: 5;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
   color: #557C3E;
   text-align: left;
   margin-right: 2px;
