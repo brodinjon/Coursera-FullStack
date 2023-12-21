@@ -5,6 +5,9 @@
   border: 0;
   height: 40px;
 }
+.short-header {
+  height: 40px;
+}
 .navbar-brand {
   padding-top: 25px;
 }
