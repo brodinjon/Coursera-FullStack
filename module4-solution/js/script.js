@@ -58,8 +58,7 @@ WARNING!!! WARNING!!!
   // name in the loop.
     if (firstLetter === 'j') {
       byeSpeaker.speak(names[i]);
-    } 
-    else {
+    } else {
      helloSpeaker.speak(names[i]);
     }
   }
